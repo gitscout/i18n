@@ -2,7 +2,7 @@
   "name": "i18n",
   "version": "1.0.0",
   "description": "Cross-devices texts sources.",
-  "main": "index.js",
+  "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "compile": "babel -d dist/ src/",
