@@ -3,7 +3,7 @@ module.exports = function( context, lang )
 {
   try
   {
-    return require( './i18n/'+context+'/'+lang+'.json' )
+    return require( 'i18n/' + context + '/' + lang + '.json' )
   }
   catch( e )
   {
