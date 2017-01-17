@@ -1,0 +1,467 @@
+{
+  "test": {
+    "child": {
+      "zero": "nope",
+      "one": "One child",
+      "more": "%(count)s children"
+    },
+    "abc": "The first 4 letters of the english alphabet are: %s, %s, %s and %s"
+  },
+  "global": {
+    "loading": "Loading",
+    "cancel": "Cancel",
+    "warning_discard_change": "Are you sure you want to discard your unsaved changes?",
+    "offline": "<p>Oups! Connection lost, you should check your internet.</p><p>Can you copy?</p>",
+    "undo": "undo",
+    "ok": "ok",
+    "back": "Back"
+  },
+  "updater": {
+    "new_release": {
+      "title": "Gitscout Updater",
+      "message": "The update has installed itself successfully. – You’re now running the latest and hottest version of Gitscout.",
+      "button": "Install and Restart"
+    }
+  },
+  "notifications": {
+    "single": {
+      "new_issue": "New issue published",
+      "update": "Issue was updated."
+    },
+    "multiple": {
+      "title": "Here come troubles!",
+      "body": "We received %s new notifications from Github."
+    },
+    "buttons": {
+      "show_unread": "Show unread",
+      "show_archive": "Show archive",
+      "mark_all_as_read": "Mark all as read",
+      "mark_repo_as_read": "Mark all notifications as read"
+    },
+    "sync": "Syncing notifications"
+  },
+  "welcome": {
+    "privacy_link": "Privacy Policy",
+    "login": {
+      "title": "Welcome to Gitscout.",
+      "tagline": "Browse, organize and manage your GitHub Issues.",
+      "btn_connect_gh": "Login with GitHub",
+      "btn_create_account": "create your account",
+      "no_account": "You must create an account before."
+    },
+    "account": {
+      "title": "Confirm your details",
+      "placeholder_name": "Name",
+      "placeholder_company": "Company (optional)",
+      "placeholder_email": "Email address",
+      "benefits_link": "Why do I need an account?",
+      "btn": "Create your account",
+      "error_required": "required field",
+      "error_email": {
+        "invalid": "Invalid e-mail adress",
+        "duplicate": "E-mail already registred"
+      }
+    },
+    "setup": {
+      "title": "🤗  Define your preferences",
+      "feedback": "Follow the Gitscout feedbacks repositoty.",
+      "autolaunch": "Launch Gitscout at login.",
+      "notifications": "Display desktop notifications",
+      "btn": "Let me in"
+    },
+    "loading": {
+      "fetch_account": "Fetching your Gitscout account.",
+      "create_account": "Creating your Gitscout account.",
+      "checking_env": "Checking your Gitscout version",
+      "fetch_repositories": "Fetching your organizations/repositories",
+      "fetch_saved": "Fetching your saved list",
+      "all_done": "Welcome aboard 😀"
+    }
+  },
+  "onboarding": {
+    "btn_skip": "skip",
+    "btn_next": "next",
+    "setup": {
+      "title": "Application setup",
+      "feedback": "Follow the Gitscout feedback repository.",
+      "autolaunch": "Open automatically when you log in.",
+      "notifications": "Allow desktop Notifications.",
+      "btn": "Let's fix some bugs! 👋"
+    },
+    "features": {
+      "feature_1": {
+        "image": "saved_issues",
+        "title": "Saved List",
+        "text": "“Save” any tickets in one click to organize your daily tasks."
+      },
+      "feature_2": {
+        "image": "cmd_k",
+        "title": "Repository switcher",
+        "text": "Switch from a repo to an other without leaving the comfort of your keyboard."
+      },
+      "feature_3": {
+        "image": "organise_repositories",
+        "title": "Sidebar customization",
+        "text": "Easily manage your organizations and your repositories."
+      },
+      "feature_4": {
+        "image": "desktop_notifications",
+        "title": "Desktop Notifications",
+        "text": "Stay in the loop, and get notified of any change in your projects."
+      }
+    }
+  },
+  "shortcuts": {
+    "header": "Keyboard Shortcuts",
+    "labels": {
+      "preferences": "Preferences",
+      "hide_app": "Hide Gitscout",
+      "hide_other": "Hide other",
+      "close": "Close",
+      "quit": "Quit",
+      "new_issue": "New Issue",
+      "quickswitch": "Quick switch",
+      "search": "Search issue",
+      "notifications_unread": "Unread notifications",
+      "notifications_participating": "Participating notifications",
+      "saved": "Saved issues",
+      "drafts": "Drafts",
+      "refresh": "Refresh views"
+    }
+  },
+  "quickswitch": {
+    "placeholder": "Repository name",
+    "noresults": " 😬 No repository found.",
+    "btn_tooltip": "Quick Switch (⌘K)",
+    "btn_sidebar": "Repo Switcher"
+  },
+  "search": {
+    "filters": {
+      "title": "Smart Filters",
+      "assignee_to_me_label": "Issues assignee to me",
+      "assignee_to_me_value": "me",
+      "state_label": "Open issues",
+      "state_open": "open",
+      "state_closed": "closed",
+      "sort_label": "Sort by recently updated",
+      "sort_updated_desc": "\"recently updated\"",
+      "sort_newest": "newest"
+    },
+    "saved": {
+      "item_title": {
+        "one": "hit once %(date)s",
+        "more": "hit %(count)s times, %(date)s"
+      }
+    }
+  },
+  "dropdown": {
+    "search_placehoder": "Search"
+  },
+  "emptystates": {
+    "no_issue_select": "Choose an issue and get crackin'",
+    "issue_not_found": "Woops, issue not found",
+    "issue_activity_error": "Woops, there is a technical issue 😰",
+    "issue_no_results": "No issues here.",
+    "search_no_results": "No results matched your search",
+    "todo_no_results": "No issues saved here.",
+    "drafts_no_results": "No drafts saved here.",
+    "notifications_no_unread": "No new notifications.",
+    "notifications_no_archive": "No past notifications."
+  },
+  "sidebar": {
+    "notifications": {
+      "title": "Notifications",
+      "link_unread": "Unread",
+      "link_participating": "Participating"
+    },
+    "notifications_title": "Notifications",
+    "saved_title": "Saved issues",
+    "drafts_title": "Drafts",
+    "contextmenu_manage_owner": "Manage this %s",
+    "contextmenu_hide_owner": "Hide this %s",
+    "contextmenu_visit_owner": "View this %s on Github",
+    "contextmenu_hide_repository": "Hide this repository",
+    "contextmenu_visit_repository": "View this repository on Github",
+    "contextmenu_mute_repository": "Mute notifications",
+    "contextmenu_unmute_repository": "Unmute notifications"
+  },
+  "imageViewer": {
+    "prev": "Previous image",
+    "next": "Next image",
+    "download": "Download image",
+    "openShell": "Open  in your Browser",
+    "close": "Close"
+  },
+  "issues": {
+    "state": {
+      "open": "Open",
+      "closed": "Closed",
+      "all": "All"
+    },
+    "sort": {
+      "newest": "Newest",
+      "oldest": "Oldest",
+      "commented": "Recently commented",
+      "updated": "Recently updated"
+    },
+    "tooltip_add_todo": "Add to Saved issues",
+    "tooltip_remove_todo": "Remove from Saved issues",
+    "loading_more_issues": "loading more issues",
+    "sync_repo": "Syncing repository",
+    "searching": "Searching",
+    "no_filter": {
+      "label": "Unlabeled",
+      "milestone": "Issues with no milestone",
+      "assignee": "Assigned to nobody"
+    }
+  },
+  "issue_request": {
+    "header": "You’re not following this repository",
+    "header_error": "Oups, we can't access this repository",
+    "message": "Do you want to add <strong>%s</strong> to your list?",
+    "message_error": "Before adding this repository to your list, please make sure:",
+    "btn_cancel": "NO, THANKS",
+    "btn_valid": "ADD TO MY LIST"
+  },
+  "todos": {
+    "no_results": "No issue here."
+  },
+  "drafts": {
+    "help": {
+      "text": "When you write a new Ticket or edit a Comment you can save it as a \"Draft\". This way, you can always step away from it and finish it later.",
+      "warning": "Drafts will be deleted when you quit Gitscout."
+    }
+  },
+  "meta": {
+    "add_label": "+ Add a label",
+    "no_label": "No label yet",
+    "add_milestone": "+ Set a milestone",
+    "no_milestone": "No milestone",
+    "no_assignee_ticket": "No one assigned",
+    "no_assignee": "+ Assign to someone",
+    "add_assignee": "+ Add another assignee",
+    "issue_no_meta": "No Label or assignee"
+  },
+  "ticket": {
+    "btn_close": "Close issue",
+    "btn_reopen": "Reopen issue",
+    "btn_new": "New issue (⌘N)",
+    "btn_infos": "Issue meta",
+    "btn_comment": "New Comment",
+    "btn_update_comment": "Update comment",
+    "placeholder_previous_activity": "Previous Comments/Events",
+    "placeholder_add_comment": "Leave comment",
+    "comment_placeholder": "No description provided.",
+    "update_comment_placeholder": "Comment can not be empty.",
+    "form_comment_placeholder": "Leave a comment",
+    "user_mention_title": "Check out %s profile on Github",
+    "alert_undo_reopen": "You just reopened this issue.",
+    "alert_undo_close": "You just closed this issue.",
+    "alert_todo_invite": "Do you want to save this issue?",
+    "alert_todo_action": "Yes!",
+    "tooltip_labels": "Labels",
+    "tooltip_assignee": "Assignee",
+    "tooltip_milestone": "Milestone",
+    "placeholder_labels": "None yet",
+    "placeholder_assignee": "No one",
+    "placeholder_milestone": "No milestone",
+    "delete_comment_title": "Delete comment",
+    "delete_comment_message": "Are you sure you want to delete this comment?",
+    "tooltip_lock_conversation" : "Lock conversation",
+    "tooltip_unlock_conversation" : "Unlock conversation",
+    "conversation_locked": "This conversation has been locked and limited to collaborators.",
+    "commit_link": "View commit details on Github"
+  },
+  "activity": {
+    "label": {
+      "add": {
+        "one": "added the %(labeled)s label",
+        "more": "added %(labeled)s labels"
+      },
+      "remove": {
+        "one": "removed the %(unlabeled)s label",
+        "more": "removed %(unlabeled)s labels"
+      },
+      "add_remove": "added %(labeled)s and removed %(unlabeled)s labels"
+    },
+    "rename": "changed the title from <strong class=\"ticket__event__elem\">%(from)s</strong> to <strong class=\"ticket__event__elem\">%(to)s</strong>",
+    "milestone": {
+      "add": "added this to the <strong class=\"ticket__event__elem\">%(milestoned)s</strong> milestone",
+      "remove": "removed this from the <strong class=\"ticket__event__elem\">%(demilestoned)s</strong> milestone",
+      "change": "modified the milestone to <strong class=\"ticket__event__elem\">%(milestoned)s</strong>"
+    },
+    "assignee": {
+      "himself": "himself",
+      "add": "assigned %(assigned)s",
+      "remove": "unassigned %(unassigned)s",
+      "add_remove": "assigned %(assigned)s and unassigned %(unassigned)s",
+      "self": {
+        "add": "self-assigned this",
+        "remove": "removed their assignment"
+      }
+    },
+    "reference": {
+      "one": "added a commit that referenced this issue",
+      "more": "added %(count)s commits that referenced this issue"
+    },
+    "crossref": "This was referenced",
+    "reopen": "reopened this",
+    "close": "closed this",
+    "lock": "locked and limited conversation to collaborators",
+    "unlock": "unlocked this conversation"
+  },
+  "reactions": {
+    "tooltip_selected_notyou": {
+      "one": "%(user)s reacted with %(content)s",
+      "more": "%(count)s users reacted with %(content)s"
+    },
+    "tooltip_selected_you": {
+      "one": "You reacted with %(content)s",
+      "more": "You and %(count)s users reacted with %(content)s"
+    }
+  },
+  "settings": {
+    "topbar_title": "Preferences (⌘,)",
+    "tabs": {
+      "general": "General",
+      "account": "Account",
+      "repositories": "Repositories",
+      "issues": "Issues",
+      "notifications": "Notifications",
+      "actions": "Quick actions"
+    },
+    "account": {
+      "title": "Your account",
+      "gh_login": "Github account: <strong class=\"ff-tag u-force-m\">%s</strong> %s",
+      "logout": "Logout"
+    },
+    "app": {
+      "title": "Gitscout Settings",
+      "auto_open": "Launch Gitscout at login",
+      "display_notifications": "Display notifications",
+      "version": "You're currently running version %(version)s",
+      "btn_update": "Check for update now",
+      "btn_update_checking": "Checking for update",
+      "free_version": "You are using the <span class=\"ff-tag\">Free</span> version of Gitscout!",
+      "go_premium": "Treat Yo'self!",
+      "btn_upgrade": "Treat Yo'self to Premium!",
+      "user_spellcheck": "Use spell check (english only)"
+    },
+    "issues": {
+      "state": "Show open issues by default",
+      "sort": "Sort issues by:",
+      "sortby": {
+        "newest": "Newest",
+        "oldest": "Creation date",
+        "commented": "Recently commented",
+        "updated": "Recently updated"
+      }
+    },
+    "actions": {
+      "repository": "Repository issues list",
+      "notifications": "Notifications issues list",
+      "saved": "Saved issues list",
+      "labels": {
+        "none": "No action",
+        "save": "Save/Unsave",
+        "state": "Close/Reopen",
+        "assign": "Self-assign/Unassign",
+        "milestone": "Add/remove to next milestone",
+        "subscribe": "Subscribe/Unsubscribe",
+        "read": "Mark as read"
+      }
+    },
+    "notifications": {
+      "disabled": "Do not disturb me!",
+      "participating": "Only if I'm participating to the thread.",
+      "all": "Always."
+    },
+    "repositories": {
+      "default": "<p>Need to focus on major projects?</p><p>Let's define the visible<br>organizations/repositories in sidebar.</p>",
+      "owner_desc": {
+        "zero": "%s, no repository",
+        "one": "%s, %s repository",
+        "more": "%s, %s repositories"
+      },
+      "btn_add_repository": "Add a repository",
+      "btn_show_repositories": "Show repositories",
+      "hide_owner": "Hide this %s from sidebar",
+      "show_all": "Show all repositories",
+      "no_desc": "No description",
+      "add_title": "Enter the username/repo URL",
+      "add_title_error": "Invalid repository access",
+      "add_button": "Add",
+      "add_placeholder": "https://github.com/owner/repository",
+      "add_text": "...",
+      "add_text_error": "Help: - You url could be incorrect. - If your repository is private make sure you have access to it. - Make sur administrator allow the repository API access.",
+      "help": {
+        "title": "Help:",
+        "list": {
+          "wrong_url": "• You url could be incorrect.",
+          "private_repo": "• If your repository is private make sure you have access to it.",
+          "api_restriction": "• Make sur administrator allow the repository API access."
+        },
+        "fork": {
+          "header": "Look like you want to add a forked repository 🤔",
+          "message": "Do you want to add original repository, <strong>%s</strong>, to your list?",
+          "btn_cancel": "NO, THANKS",
+          "btn_valid": "ADD TO MY LIST"
+        }
+      }
+    }
+  },
+  "uploader": {
+    "attach": "Drop \"%(name)s%(extension)s\" to attach",
+    "uploading": "Uploading your file",
+    "uploaded": "Uploaded",
+    "errors": {
+      "max_files": "You can only drop one file at the time",
+      "max_size": "File is over %(size)s",
+      "invalid_format": "This file format is not supported by Github.<div class=\"c-uploader__supported-files\"><p>FORMAT SUPPORTED</p><span>PNG, GIF, JPG, DOCX, PPTX, XLSX, TXT, PDF, or ZIP</span></div>",
+      "empty_file": "This file is empty.<br> Try again with an actual file. One that exists."
+    },
+    "warning": {
+      "file_size": "File is over %(size)s, are you sure you want to upload it?",
+      "btn_confirm": "Hell Yeah!",
+      "btn_cancel": "Nope. Nevermind."
+    }
+  },
+  "composer": {
+    "header_save_draft": "Save as draft",
+    "header_discard": "Discard",
+    "repository_placeholder": "First select a repository",
+    "title_placeholder": "Untitled",
+    "body_placeholder": "Leave a comment",
+    "body_no_preview": "Nothing to preview.",
+    "body_preview_error": "Oops, we can not show you preview.",
+    "tooltip_labels": "Labels",
+    "tooltip_assignee": "Assignee",
+    "tooltip_milestone": "Milestone",
+    "tooltip_attachment": "Attach file",
+    "tooltip_preview": "Preview comment",
+    "tooltip_expand": "Expand composer",
+    "tooltip_collapse": "Minimize composer",
+    "btn_preview": "Preview",
+    "btn_submit": "Submit new issue",
+    "btn_comment": "Comment",
+    "btn_comment_update": "Update comment",
+    "btn_secondary_close": "Close issue",
+    "btn_secondary_close_comment": "Close and comment",
+    "btn_secondary_reopen": "Reopen issue",
+    "btn_secondary_reopen_comment": "Reopen and comment",
+    "title_comment": "Comment issue #%s",
+    "title_comment_edit": "Edit comment",
+    "title_edit": "Edit issue",
+    "title_default": "New Issue",
+    "title_preview_mode": " - Preview",
+    "contextmenu_github_copy_url_ticket": "Copy issue url",
+    "contextmenu_github_copy_url_comment": "Copy comment url",
+    "contextmenu_github_link": "View on Github",
+    "contextmenu_edit_comment": "Edit comment",
+    "contextmenu_edit_ticket": "Edit issue",
+    "contextmenu_delete_comment": "Delete comment",
+    "contextmenu_delete_ticket": "Delete ticket",
+    "unsaved_change_title": "Are you sure you want to quit?",
+    "unsaved_change_question": "​Are you sure you want to close?​\nYour changes won’t be saved."
+  }
+}

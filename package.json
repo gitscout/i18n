@@ -1,0 +1,21 @@
+{
+  "name": "i18n",
+  "version": "1.0.0",
+  "description": "Cross-devices texts sources.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "compile": "babel -d dist/ src/",
+    "compile:watch": "babel --watch -d dist/ src/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gitscout/i18n.git"
+  },
+  "author": "Michael Lefebvre <michael@scenedata.com> (http://michael-lefebvre.com/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gitscout/i18n/issues"
+  },
+  "homepage": "https://github.com/gitscout/i18n#readme"
+}

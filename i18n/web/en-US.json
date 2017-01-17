@@ -1,0 +1,165 @@
+{
+  "meta": {
+    "title": "Gitscout | A beautiful and optimized GitHub Issues experience for macOS",
+    "description": "A beautiful and optimized GitHub Issues experience for macOS",
+    "facebook": {
+      "title": "Gitscout",
+      "site_name": "Gitscout",
+      "description": "A beautiful and optimized GitHub Issues experience for macOS"
+    },
+    "twitter": {
+      "title": "Gitscout",
+      "description": "A beautiful and optimized GitHub Issues experience for macOS"
+    }
+  },
+  "navigation": {
+    "external": {
+      "github": "Give us Feedback on GitHub",
+      "twitter": "Follow us on Twitter"
+    },
+    "pages": {
+      "homepage": "Homepage",
+      "download": "Download",
+      "features": "Features",
+      "privacy": "Privacy",
+      "account-benefits": "Account Benefits"
+    }
+  },
+  "homepage": {
+    "hero": {
+      "tagline": "Gitscout is a beautiful GitHub Issues experience for macOS",
+      "cta_download": "Try it now"
+    },
+    "showreel": [
+      {
+        "position": { "l": 9, "t": 24.5 },
+        "text": "All your repositories in one place"
+      },
+      {
+        "position": { "l": 35, "t": 5 },
+        "text": "Search, filter, and sort your issues instantly"
+      },
+      {
+        "position": { "l": 70, "t": 50 },
+        "text": "Follow up your issues activity"
+      },
+      {
+        "position": { "l": 65, "t": 90 },
+        "text": "Reply, close, attach and join the conversation instantly",
+        "alignTop": true
+      }
+    ],
+    "features": {
+      "title": "Browse, organize and manage your GitHub Issues",
+      "text_intro": "Gitscout provides a beautiful <br class=\"br-mobile\">new experience to stay organized <br class=\"br-mobile\">and get your work done."
+    }
+  },
+  "beta": {
+    "title": "Help us building the best <br class=\"br-mobile\"> GitHub <br class=\"br-desktop br-desktop--beta\"> Issues experience",
+    "text_intro": "Our mission is to help developers, designers, and anyone using GitHub to collaborate efficiently.</p><p class=\"c-text c-font\">Your work is important and you deserve the best tools so please help us improving Gitscout by <a href=\"https://github.com/gitscout/gitscout-feedback/\" class=\"js-github\" target=\"_blank\">sharing your feedback on our GitHub</a> and let's build Gitscout together.",
+    "cta_download": "Download now"
+  },
+  "features": {
+    "sidebar_repo": {
+      "url": "sidebar-organizations-repositories-access",
+      "img": "quickswitch",
+      "title": "All your Organizations/Repositories easily",
+      "short": "Get acces to all your Organizations/Repositories easily"
+    },
+    "issues_list": {
+      "url": "simple-issues-list",
+      "img": "quickswitch",
+      "title": "Single issues list",
+      "short": "Browse all repository's issues in a single list"
+    },
+    "ticket_timeline": {
+      "img": "quickswitch",
+      "title": "Smart Timeline",
+      "short": "Follow your co-worker activities without the noise"
+    },
+    "ticket_meta": {
+      "url": "update-issue",
+      "img": "quickswitch",
+      "title": "Refine issue",
+      "short": "Update issue (e.g. Add labels/milestone)"
+    },
+    "ticket_newcomment": {
+      "url": "issue-new-comment",
+      "img": "quickswitch",
+      "title": "Quick response",
+      "short": "Add new comment like you anwsered to a text message"
+    },
+    "ticket_bookmark": {
+      "img": "saved-issues",
+      "title": "Saved issues",
+      "short": "\"Save\" any issue in one click <br class=\"br-mobile\">and stay focus",
+      "long": "\"Save\" any issue in one click and stay focus. Organize your day works and save your time."
+    },
+    "composer_global": {
+      "img": "composer",
+      "title": "New issue interface",
+      "short": "A clear message interface"
+    },
+    "composer_draft": {
+      "img": "drafts",
+      "title": "Drafts",
+      "short": "No time to finish this message, <br class=\"br-mobile\">save it as draft",
+      "long": "No time to finish this message, save it as draft."
+    },
+    "quickswitch": {
+      "img": "quickswitcher",
+      "title": "Repositories quick switcher",
+      "short": "Blazing fast navigation across <br class=\"br-mobile\">all your repositories"
+    },
+    "search": {
+      "img": "search",
+      "title": "A new search experience",
+      "short": "Search, filter, and sort <br class=\"br-mobile\">your issues instantly",
+      "long": "Search, filter, and sort your issues instantly. Don't loose your time to type the same search again, your recurrent searches are saved."
+    },
+    "notifications_global": {
+      "img": "notifications",
+      "title": "Notifications",
+      "short": "Stay in the loop, and get notified <br class=\"br-mobile\">of any change",
+      "long": "Stay in the loop, and get notified of any change. Fine tune your preferences and get only relevant alerts."
+    },
+    "manage_repositories": {
+      "img": "manage-repositories",
+      "title": "Manage your repositories",
+      "short": "Easily manage your organizations and your repositories in your sidebar and add extra projects.",
+      "long": "Easily manage your organizations and your repositories in your sidebar and add extra projects."
+    },
+    "persistant_config": {
+      "img": "config",
+      "title": "Feel like home anywhere",
+      "short": "Ready to work once logged in. Your preferences are saved and ready to help you to get sh*#t done!",
+      "long": "Ready to work once logged in. Your preferences are saved and ready to help you on all your computers."
+    }
+  },
+  "accountBenefits": {
+    "hero": {
+      "title": "Gitscout account benefits",
+      "intro": "Gitscout is more than an issues viewer. It help you to manage and plan your daily work with smarts features across all your work stations. Don't worry, your data will always be in a <a href=\"/privacy\" title=\"see Privacy page\">safe place</a>."
+    }
+  },
+  "chromeExtension": {
+    "meta": {
+      "title": "Gitscout | A beautiful and optimized GitHub Issues experience for macOS",
+      "description": "A beautiful and optimized GitHub Issues experience for macOS",
+      "facebook": {
+        "title": "Gitscout",
+        "site_name": "Gitscout",
+        "description": "A beautiful and optimized GitHub Issues experience for macOS"
+      },
+      "twitter": {
+        "title": "Gitscout",
+        "description": "A beautiful and optimized GitHub Issues experience for macOS"
+      }
+    },
+    "header": {
+      "title": "Gitscout Chrome extension.",
+      "tagline": "Get the best Gitscout experience, open GitHub issues straight from your browser.",
+      "btn_install": "Install Gitscout for Chrome"
+    }
+  }
+}
