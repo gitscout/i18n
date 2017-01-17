@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Cross-devices texts sources.",
   "main": "lib/index.js",
+  "_from": "git+https://6ea4b5e2247297bc3c87b5e05a95cd83f96d4465:x-oauth-basic@github.com/gitscout/i18n.git",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "compile": "babel -d dist/ src/",
