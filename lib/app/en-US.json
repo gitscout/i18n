@@ -126,7 +126,8 @@
       "notifications_participating": "Participating notifications",
       "saved": "Saved issues",
       "drafts": "Drafts",
-      "refresh": "Refresh views"
+      "refresh": "Refresh views",
+      "add_repo": "Add a repository"
     }
   },
   "quickswitch": {
@@ -152,6 +153,28 @@
         "one": "hit once %(date)s",
         "more": "hit %(count)s times, %(date)s"
       }
+    }
+  },
+  "addRepositoryModal": {
+    "add_title": "Enter the username/repo URL",
+    "add_title_error": "Invalid repository access",
+    "add_button": "Add to Gitscout",
+    "add_button_err": "Try again",
+    "add_placeholder": "https://github.com/owner/repository",
+    "add_text": "...",
+    "help": {
+      "title": "Help:",
+      "list": {
+        "wrong_url": "• You url could be incorrect.",
+        "private_repo": "• If your repository is private make sure you have access to it.",
+        "api_restriction": "• Make sur administrator allow the repository API access."
+      }
+    },
+    "fork": {
+      "header": "Look like you want to add a forked repository 🤔",
+      "message": "Do you want to add original repository, <strong>%s</strong>, to your list?",
+      "btn_cancel": "NO, THANKS",
+      "btn_valid": "ADD TO MY LIST"
     }
   },
   "dropdown": {
@@ -387,27 +410,7 @@
       "btn_show_repositories": "Show repositories",
       "hide_owner": "Hide this %s from sidebar",
       "show_all": "Show all repositories",
-      "no_desc": "No description",
-      "add_title": "Enter the username/repo URL",
-      "add_title_error": "Invalid repository access",
-      "add_button": "Add",
-      "add_placeholder": "https://github.com/owner/repository",
-      "add_text": "...",
-      "add_text_error": "Help: - You url could be incorrect. - If your repository is private make sure you have access to it. - Make sur administrator allow the repository API access.",
-      "help": {
-        "title": "Help:",
-        "list": {
-          "wrong_url": "• You url could be incorrect.",
-          "private_repo": "• If your repository is private make sure you have access to it.",
-          "api_restriction": "• Make sur administrator allow the repository API access."
-        },
-        "fork": {
-          "header": "Look like you want to add a forked repository 🤔",
-          "message": "Do you want to add original repository, <strong>%s</strong>, to your list?",
-          "btn_cancel": "NO, THANKS",
-          "btn_valid": "ADD TO MY LIST"
-        }
-      }
+      "no_desc": "No description"
     }
   },
   "uploader": {
