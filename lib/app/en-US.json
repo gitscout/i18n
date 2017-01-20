@@ -11,9 +11,9 @@
     "loading": "Loading",
     "cancel": "Cancel",
     "warning_discard_change": "Are you sure you want to discard your unsaved changes?",
-    "offline": "<p>Oups! Connection lost, you should check your internet.</p><p>Can you copy?</p>",
-    "undo": "undo",
-    "ok": "ok",
+    "offline": "<p>Oops! Connection lost, you should check your internet.</p><p>Can you copy?</p>",
+    "undo": "Undo",
+    "ok": "Ok",
     "back": "Back"
   },
   "updater": {
@@ -29,7 +29,7 @@
       "update": "Issue was updated."
     },
     "multiple": {
-      "title": "Here come troubles!",
+      "title": "Here comes the trouble!",
       "body": "We received %s new notifications from Github."
     },
     "buttons": {
@@ -41,7 +41,7 @@
     "sync": "Syncing notifications"
   },
   "announcements": {
-    "show_previous": "Previous Announcements…",
+    "show_previous": "Previous announcements…",
     "topbar_title": "Announcements"
   },
   "welcome": {
@@ -50,7 +50,7 @@
       "title": "Welcome to Gitscout.",
       "tagline": "Browse, organize and manage your GitHub Issues.",
       "btn_connect_gh": "Login with GitHub",
-      "btn_create_account": "create your account",
+      "btn_create_account": "Create your account",
       "no_account": "You must create an account before."
     },
     "account": {
@@ -68,7 +68,7 @@
     },
     "setup": {
       "title": "🤗  Define your preferences",
-      "feedback": "Follow the Gitscout feedbacks repositoty.",
+      "feedback": "Follow the Gitscout feedback repositoty.",
       "autolaunch": "Launch Gitscout at login.",
       "notifications": "Display desktop notifications",
       "btn": "Let me in"
@@ -79,7 +79,7 @@
       "checking_env": "Checking your Gitscout version",
       "fetch_repositories": "Fetching your organizations/repositories",
       "fetch_saved": "Fetching your saved list",
-      "all_done": "Welcome aboard 😀"
+      "all_done": "Welcome aboard fellow Scout 😀"
     }
   },
   "onboarding": {
@@ -88,9 +88,9 @@
     "setup": {
       "title": "Application setup",
       "feedback": "Follow the Gitscout feedback repository.",
-      "autolaunch": "Open automatically when you log in.",
+      "autolaunch": "Open magically when you log in.",
       "notifications": "Allow desktop Notifications.",
-      "btn": "Let's fix some bugs! 👋"
+      "btn": "Let's fix some issues! 👋"
     },
     "features": {
       "feature_1": {
@@ -106,7 +106,7 @@
       "feature_3": {
         "image": "organise_repositories",
         "title": "Sidebar customization",
-        "text": "Easily manage your organizations and your repositories."
+        "text": "Easily manage your organizations and repositories."
       },
       "feature_4": {
         "image": "desktop_notifications",
@@ -143,14 +143,14 @@
   "search": {
     "filters": {
       "title": "Smart Filters",
-      "assignee_to_me_label": "Issues assignee to me",
+      "assignee_to_me_label": "Issues assigned to me",
       "assignee_to_me_value": "me",
       "state_label": "Open issues",
-      "state_open": "open",
-      "state_closed": "closed",
-      "sort_label": "Sort by recently updated",
+      "state_open": "Open",
+      "state_closed": "Closed",
+      "sort_label": "Recently updated",
       "sort_updated_desc": "\"recently updated\"",
-      "sort_newest": "newest"
+      "sort_newest": "Most Recent"
     },
     "saved": {
       "item_title": {
@@ -169,25 +169,25 @@
     "help": {
       "title": "Help:",
       "list": {
-        "wrong_url": "• You url could be incorrect.",
+        "wrong_url": "• You url might be incorrect.",
         "private_repo": "• If your repository is private make sure you have access to it.",
-        "api_restriction": "• Make sur administrator allow the repository API access."
+        "api_restriction": "• Make sur the administrator allows the repository API access."
       }
     },
     "fork": {
-      "header": "Look like you want to add a forked repository 🤔",
+      "header": "Looks like you want to add a forked repository 🤔",
       "message": "Do you want to add original repository, <strong>%s</strong>, to your list?",
       "btn_cancel": "NO, THANKS",
-      "btn_valid": "ADD TO MY LIST"
+      "btn_valid": "ADD IT TO MY LIST"
     }
   },
   "dropdown": {
     "search_placehoder": "Search"
   },
   "emptystates": {
-    "no_issue_select": "Choose an issue and get crackin'",
-    "issue_not_found": "Woops, issue not found",
-    "issue_activity_error": "Woops, there is a technical issue 😰",
+    "no_issue_select": "Choose an issue and get to work'",
+    "issue_not_found": "Oops, issue not found",
+    "issue_activity_error": "Uh-oh, there's a technical issue 😰",
     "issue_no_results": "No issues here.",
     "search_no_results": "No results matched your search",
     "todo_no_results": "No issues saved here.",
@@ -217,7 +217,7 @@
     "prev": "Previous image",
     "next": "Next image",
     "download": "Download image",
-    "openShell": "Open  in your Browser",
+    "openShell": "Open in your browser",
     "close": "Close"
   },
   "issues": {
@@ -234,7 +234,7 @@
     },
     "tooltip_add_todo": "Add to Saved issues",
     "tooltip_remove_todo": "Remove from Saved issues",
-    "loading_more_issues": "loading more issues",
+    "loading_more_issues": "Loading more issues",
     "sync_repo": "Syncing repository",
     "searching": "Searching",
     "no_filter": {
@@ -245,19 +245,19 @@
   },
   "issue_request": {
     "header": "You’re not following this repository",
-    "header_error": "Oups, we can't access this repository",
+    "header_error": "Oops, we can't access this repository",
     "message": "Do you want to add <strong>%s</strong> to your list?",
     "message_error": "Before adding this repository to your list, please make sure:",
     "btn_cancel": "NO, THANKS",
-    "btn_valid": "ADD TO MY LIST"
+    "btn_valid": "ADD IT TO MY LIST"
   },
   "todos": {
     "no_results": "No issue here."
   },
   "drafts": {
     "help": {
-      "text": "When you write a new Ticket or edit a Comment you can save it as a \"Draft\". This way, you can always step away from it and finish it later.",
-      "warning": "Drafts will be deleted when you quit Gitscout."
+      "text": "When you write a new Ticket or edit a Comment you can save it as a \"Draft\". That way, you can finish it later.",
+      "warning": "All your drafts will be deleted when you quit the app."
     }
   },
   "meta": {
@@ -265,22 +265,22 @@
     "no_label": "No label yet",
     "add_milestone": "+ Set a milestone",
     "no_milestone": "No milestone",
-    "no_assignee_ticket": "No one assigned",
+    "no_assignee_ticket": "Nobody assigned",
     "no_assignee": "+ Assign to someone",
     "add_assignee": "+ Add another assignee",
-    "issue_no_meta": "No Label or assignee"
+    "issue_no_meta": "No label or assignee"
   },
   "ticket": {
     "btn_close": "Close issue",
     "btn_reopen": "Reopen issue",
     "btn_new": "New issue (⌘N)",
     "btn_infos": "Issue meta",
-    "btn_comment": "New Comment",
+    "btn_comment": "New comment",
     "btn_update_comment": "Update comment",
     "placeholder_previous_activity": "Previous Comments/Events",
     "placeholder_add_comment": "Leave comment",
     "comment_placeholder": "No description provided.",
-    "update_comment_placeholder": "Comment can not be empty.",
+    "update_comment_placeholder": "A comment cannot be empty.",
     "form_comment_placeholder": "Leave a comment",
     "user_mention_title": "Check out %s profile on Github",
     "alert_undo_reopen": "You just reopened this issue.",
@@ -291,13 +291,13 @@
     "tooltip_assignee": "Assignee",
     "tooltip_milestone": "Milestone",
     "placeholder_labels": "None yet",
-    "placeholder_assignee": "No one",
+    "placeholder_assignee": "Nobody",
     "placeholder_milestone": "No milestone",
     "delete_comment_title": "Delete comment",
     "delete_comment_message": "Are you sure you want to delete this comment?",
     "tooltip_lock_conversation" : "Lock conversation",
     "tooltip_unlock_conversation" : "Unlock conversation",
-    "conversation_locked": "This conversation has been locked and limited to collaborators.",
+    "conversation_locked": "This conversation has been locked and restricted to collaborators.",
     "commit_link": "View commit details on Github"
   },
   "activity": {
@@ -319,7 +319,7 @@
       "change": "modified the milestone to <strong class=\"ticket__event__elem\">%(milestoned)s</strong>"
     },
     "assignee": {
-      "himself": "himself",
+      "themself": "themself",
       "add": "assigned %(assigned)s",
       "remove": "unassigned %(unassigned)s",
       "add_remove": "assigned %(assigned)s and unassigned %(unassigned)s",
@@ -335,7 +335,7 @@
     "crossref": "This was referenced",
     "reopen": "reopened this",
     "close": "closed this",
-    "lock": "locked and limited conversation to collaborators",
+    "lock": "locked and restricted this conversation to collaborators",
     "unlock": "unlocked this conversation"
   },
   "reactions": {
@@ -373,7 +373,7 @@
       "free_version": "You are using the <span class=\"ff-tag\">Free</span> version of Gitscout!",
       "go_premium": "Treat Yo'self!",
       "btn_upgrade": "Treat Yo'self to Premium!",
-      "user_spellcheck": "Use spell check (english only)"
+      "user_spellcheck": "Use the Spell Checker (english only)"
     },
     "issues": {
       "state": "Show open issues by default",
@@ -400,12 +400,12 @@
       }
     },
     "notifications": {
-      "disabled": "Do not disturb me!",
+      "disabled": "Don't disturb me!",
       "participating": "Only if I'm participating to the thread.",
       "all": "Always."
     },
     "repositories": {
-      "default": "<p>Need to focus on major projects?</p><p>Let's define the visible<br>organizations/repositories in sidebar.</p>",
+      "default": "<p>Need to focus on major projects?</p><p>Let's define the visible<br>organizations/repositories in the sidebar.</p>",
       "owner_desc": {
         "zero": "%s, no repository",
         "one": "%s, %s repository",
@@ -413,7 +413,7 @@
       },
       "btn_add_repository": "Add a repository",
       "btn_show_repositories": "Show repositories",
-      "hide_owner": "Hide this %s from sidebar",
+      "hide_owner": "Hide this %s from the sidebar",
       "show_all": "Show all repositories",
       "no_desc": "No description"
     }
@@ -423,15 +423,15 @@
     "uploading": "Uploading your file",
     "uploaded": "Uploaded",
     "errors": {
-      "max_files": "You can only drop one file at the time",
+      "max_files": "You can only drop one file at a time",
       "max_size": "File is over %(size)s",
       "invalid_format": "This file format is not supported by Github.<div class=\"c-uploader__supported-files\"><p>FORMAT SUPPORTED</p><span>PNG, GIF, JPG, DOCX, PPTX, XLSX, TXT, PDF, or ZIP</span></div>",
-      "empty_file": "This file is empty.<br> Try again with an actual file. One that exists."
+      "empty_file": "This file is empty.<br> Try again with an actual file."
     },
     "warning": {
       "file_size": "File is over %(size)s, are you sure you want to upload it?",
-      "btn_confirm": "Hell Yeah!",
-      "btn_cancel": "Nope. Nevermind."
+      "btn_confirm": "Confirm",
+      "btn_cancel": "Cancel"
     }
   },
   "composer": {
@@ -441,11 +441,11 @@
     "title_placeholder": "Untitled",
     "body_placeholder": "Leave a comment",
     "body_no_preview": "Nothing to preview.",
-    "body_preview_error": "Oops, we can not show you preview.",
+    "body_preview_error": "Oops, we can not display your preview.",
     "tooltip_labels": "Labels",
     "tooltip_assignee": "Assignee",
     "tooltip_milestone": "Milestone",
-    "tooltip_attachment": "Attach file",
+    "tooltip_attachment": "Attach a file",
     "tooltip_preview": "Preview comment",
     "tooltip_expand": "Expand composer",
     "tooltip_collapse": "Minimize composer",
