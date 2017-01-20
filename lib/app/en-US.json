@@ -156,7 +156,7 @@
     }
   },
   "addRepositoryModal": {
-    "add_title": "Enter the username/repo URL",
+    "add_title": "Enter repository URL",
     "add_title_error": "Invalid repository access",
     "add_button": "Add to Gitscout",
     "add_button_err": "Try again",
