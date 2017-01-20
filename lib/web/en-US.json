@@ -41,7 +41,7 @@
       },
       {
         "position": { "l": 70, "t": 50 },
-        "text": "Follow up your issues activity"
+        "text": "Follow up on your issues activity"
       },
       {
         "position": { "l": 65, "t": 90 },
@@ -55,56 +55,56 @@
     }
   },
   "beta": {
-    "title": "Help us building the best <br class=\"br-mobile\"> GitHub <br class=\"br-desktop br-desktop--beta\"> Issues experience",
-    "text_intro": "Our mission is to help developers, designers, and anyone using GitHub to collaborate efficiently.</p><p class=\"c-text c-font\">Your work is important and you deserve the best tools so please help us improving Gitscout by <a href=\"https://github.com/gitscout/gitscout-feedback/\" class=\"js-github\" target=\"_blank\">sharing your feedback on our GitHub</a> and let's build Gitscout together.",
+    "title": "Help us build the best <br class=\"br-mobile\"> GitHub <br class=\"br-desktop br-desktop--beta\"> Issues experience",
+    "text_intro": "Our mission is to help developers, designers, and anyone using GitHub collaborate efficiently.</p><p class=\"c-text c-font\">Your work is important and you deserve the best tools so please help us improve Gitscout by <a href=\"https://github.com/gitscout/gitscout-feedback/\" class=\"js-github\" target=\"_blank\">sharing your feedback on our GitHub</a>.",
     "cta_download": "Download now"
   },
   "features": {
     "sidebar_repo": {
       "url": "sidebar-organizations-repositories-access",
       "img": "quickswitch",
-      "title": "All your Organizations/Repositories easily",
-      "short": "Get acces to all your Organizations/Repositories easily"
+      "title": "All your Organizations/Repositories intbhe same place",
+      "short": "Get acces to all your Organizations and Repositories easily"
     },
     "issues_list": {
       "url": "simple-issues-list",
       "img": "quickswitch",
       "title": "Single issues list",
-      "short": "Browse all repository's issues in a single list"
+      "short": "Browse all the issues from a repository in a single list"
     },
     "ticket_timeline": {
       "img": "quickswitch",
       "title": "Smart Timeline",
-      "short": "Follow your co-worker activities without the noise"
+      "short": "Follow your teammates' work without all the noise"
     },
     "ticket_meta": {
       "url": "update-issue",
       "img": "quickswitch",
-      "title": "Refine issue",
-      "short": "Update issue (e.g. Add labels/milestone)"
+      "title": "Refine your issues",
+      "short": "Update any issue (e.g. Add labels/milestone)"
     },
     "ticket_newcomment": {
       "url": "issue-new-comment",
       "img": "quickswitch",
-      "title": "Quick response",
-      "short": "Add new comment like you anwsered to a text message"
+      "title": "Quick reply",
+      "short": "Add a new comment like you'd reply to a text message"
     },
     "ticket_bookmark": {
       "img": "saved-issues",
       "title": "Saved issues",
-      "short": "\"Save\" any issue in one click <br class=\"br-mobile\">and stay focus",
-      "long": "\"Save\" any issue in one click and stay focus. Organize your day works and save your time."
+      "short": "\"Save\" any issue in one click <br class=\"br-mobile\">and stay focused",
+      "long": "\"Save\" any issue in one click and stay focused. Organize your work and save time."
     },
     "composer_global": {
       "img": "composer",
       "title": "New issue interface",
-      "short": "A clear message interface"
+      "short": "A clear composer interface"
     },
     "composer_draft": {
       "img": "drafts",
       "title": "Drafts",
-      "short": "No time to finish this message, <br class=\"br-mobile\">save it as draft",
-      "long": "No time to finish this message, save it as draft."
+      "short": "No time to finish this message? <br class=\"br-mobile\">Save it as draft",
+      "long": "No time to finish this message? Save it as draft."
     },
     "quickswitch": {
       "img": "quickswitcher",
@@ -115,13 +115,13 @@
       "img": "search",
       "title": "A new search experience",
       "short": "Search, filter, and sort <br class=\"br-mobile\">your issues instantly",
-      "long": "Search, filter, and sort your issues instantly. Don't loose your time to type the same search again, your recurrent searches are saved."
+      "long": "Search, filter, and sort your issues instantly. Don't waste time typing the same search again, your recurrent searches are saved."
     },
     "notifications_global": {
       "img": "notifications",
       "title": "Notifications",
       "short": "Stay in the loop, and get notified <br class=\"br-mobile\">of any change",
-      "long": "Stay in the loop, and get notified of any change. Fine tune your preferences and get only relevant alerts."
+      "long": "Stay in the loop, and get notified of any change. Fine tune your preferences and get only the alerts you want."
     },
     "manage_repositories": {
       "img": "manage-repositories",
@@ -131,15 +131,15 @@
     },
     "persistant_config": {
       "img": "config",
-      "title": "Feel like home anywhere",
+      "title": "Feel at home anywhere",
       "short": "Ready to work once logged in. Your preferences are saved and ready to help you to get sh*#t done!",
-      "long": "Ready to work once logged in. Your preferences are saved and ready to help you on all your computers."
+      "long": "Ready to work once logged in. Your preferences are saved and ready to help you on all your Apple computers."
     }
   },
   "accountBenefits": {
     "hero": {
       "title": "Gitscout account benefits",
-      "intro": "Gitscout is more than an issues viewer. It help you to manage and plan your daily work with smarts features across all your work stations. Don't worry, your data will always be in a <a href=\"/privacy\" title=\"see Privacy page\">safe place</a>."
+      "intro": "Gitscout is more than an issues viewer. It helps you manage and plan your work with smart features across all your Apple computers. Don't worry, your data will always be in a <a href=\"/privacy\" title=\"see Privacy page\">safe place</a>."
     }
   },
   "chromeExtension": {
