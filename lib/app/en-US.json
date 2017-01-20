@@ -41,7 +41,8 @@
     "sync": "Syncing notifications"
   },
   "announcements": {
-    "show_previous": "Previous Annoucements…"
+    "show_previous": "Previous Announcements…",
+    "topbar_title": "Announcements"
   },
   "welcome": {
     "privacy_link": "Privacy Policy",
@@ -170,7 +171,7 @@
     "drafts_no_results": "No drafts saved here.",
     "notifications_no_unread": "No new notifications.",
     "notifications_no_archive": "No past notifications.",
-    "announcements_no_unread": "No new annoucements"
+    "announcements_no_unread": "No new announcements"
   },
   "sidebar": {
     "notifications": {
