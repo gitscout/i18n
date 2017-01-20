@@ -29,7 +29,7 @@
       "update": "Issue was updated."
     },
     "multiple": {
-      "title": "Here comes the trouble!",
+      "title": "Here comes trouble!",
       "body": "We received %s new notifications from Github."
     },
     "buttons": {
