@@ -243,6 +243,15 @@
       "assignee": "Assigned to nobody"
     }
   },
+  "quickactions": {
+    "close": "Close",
+    "reopen": "Reopen",
+    "assign": "Self assign",
+    "unassign": "Unassign",
+    "save": "Save issue",
+    "unsave": "Unsave issue",
+    "mark": "Mark as read",
+  },
   "issue_request": {
     "header": "You’re not following this repository",
     "header_error": "Oops, we can't access this repository",
