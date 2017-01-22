@@ -393,7 +393,7 @@
         "none": "No action",
         "save": "Save/Unsave",
         "state": "Close/Reopen",
-        "assign": "Self-assign/Unassign",
+        "assign": "Toggle self-assign",
         "milestone": "Add/remove to next milestone",
         "subscribe": "Subscribe/Unsubscribe",
         "read": "Mark as read"
