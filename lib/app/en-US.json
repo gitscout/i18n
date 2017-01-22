@@ -246,7 +246,7 @@
   "quickactions": {
     "close": "Close",
     "reopen": "Reopen",
-    "assign": "Self assign",
+    "assign": "Self-assign",
     "unassign": "Unassign",
     "save": "Save issue",
     "unsave": "Unsave issue",
