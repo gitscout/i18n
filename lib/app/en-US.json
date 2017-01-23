@@ -240,7 +240,7 @@
     "no_filter": {
       "label": "Unlabeled",
       "milestone": "Issues with no milestone",
-      "assignee": "Assigned to nobody"
+      "assignee": "Unassigned"
     }
   },
   "quickactions": {
@@ -333,7 +333,7 @@
       "remove": "unassigned %(unassigned)s",
       "add_remove": "assigned %(assigned)s and unassigned %(unassigned)s",
       "self": {
-        "add": "self-assigned this",
+        "add": "assigned themself",
         "remove": "removed their assignment"
       }
     },
