@@ -1,22 +1,24 @@
 {
   "name": "i18n",
   "version": "1.0.0",
-  "description": "Cross-devices texts sources.",
+  "description": "Gitscout i18n sources",
   "main": "lib/index.js",
-  "_from": "git+https://6ea4b5e2247297bc3c87b5e05a95cd83f96d4465:x-oauth-basic@github.com/gitscout/i18n.git",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "compile": "babel -d dist/ src/",
-    "compile:watch": "babel --watch -d dist/ src/"
+    "test": "node test",
+    "precommit-msg": "echo 'Pre-commit checks...' && exit 0"
   },
+  "pre-commit": [ "precommit-msg", "test" ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/gitscout/i18n.git"
   },
-  "author": "Michael Lefebvre <michael@scenedata.com> (http://michael-lefebvre.com/)",
-  "license": "ISC",
+  "author": "Michael Lefebvre <michael@gitscout.com> (https://gitscout.com/)",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/gitscout/i18n/issues"
   },
-  "homepage": "https://github.com/gitscout/i18n#readme"
+  "homepage": "https://github.com/gitscout/i18n#readme",
+  "devDependencies": {
+    "pre-commit": "^1.2.2"
+  }
 }

@@ -1,12 +1,15 @@
-# i18n
+Hey folks,
 
-The App/Website/side project texts, stored into JSON files. Files names are based on IETF language tag.
+We noticed the typos on Gitscout may have affected your experience with the app.
 
-## Variables
+Our goal is to reach as many languages and cultures as possible. To do so, we decided to work on our own i18n files publicly. We’re interested in hearing what you think should be improved. Feel free to push your typo correction or language translation directly to the file.
 
-* %(variable)s
-* %s
+Thanks for helping us make Gitscout for everyone.
 
-## Test your file
+Cheers,
+The Gitscout team
 
-http://jsonlint.com/
+### Contribution
+
+The App/Website texts are stored into JSON files. Files names are based on IETF language tag.
+
