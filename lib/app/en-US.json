@@ -251,7 +251,7 @@
     "unassign": "Unassign",
     "save": "Save issue",
     "unsave": "Unsave issue",
-    "read": "Mark as read",
+    "read": "Mark as read"
   },
   "issue_request": {
     "header": "You’re not following this repository",
