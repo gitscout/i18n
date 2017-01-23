@@ -14,7 +14,8 @@
     "offline": "<p>Oops! Connection lost, you should check your internet.</p><p>Can you copy?</p>",
     "undo": "Undo",
     "ok": "Ok",
-    "back": "Back"
+    "back": "Back",
+    "close": "Close"
   },
   "updater": {
     "new_release": {
