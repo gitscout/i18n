@@ -271,13 +271,13 @@
     }
   },
   "meta": {
-    "add_label": "+ Add a label",
+    "add_label": "Add a label",
     "no_label": "No label yet",
-    "add_milestone": "+ Set a milestone",
+    "add_milestone": "Set a milestone",
     "no_milestone": "No milestone",
     "no_assignee_ticket": "Nobody assigned",
-    "no_assignee": "+ Assign to someone",
-    "add_assignee": "+ Add another assignee",
+    "no_assignee": "Assign to someone",
+    "add_assignee": "Add another assignee",
     "issue_no_meta": "No label or assignee"
   },
   "ticket": {
