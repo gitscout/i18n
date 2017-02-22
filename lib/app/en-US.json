@@ -276,7 +276,7 @@
     "add_milestone": "Milestone",
     "no_milestone": "No milestone",
     "no_assignee_ticket": "Nobody assigned",
-    "no_assignee": "Assign to someone",
+    "no_assignee": "Assignees",
     "add_assignee": "Add another assignee",
     "issue_no_meta": "No label or assignee"
   },
