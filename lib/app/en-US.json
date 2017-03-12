@@ -481,6 +481,6 @@
     "contextmenu_delete_ticket": "Delete ticket",
     "unsaved_change_title": "Are you sure you want to quit?",
     "unsaved_change_question": "​Are you sure you want to close?​\nYour changes won’t be saved.",
-    "unsaved_switch_question": "​Your are editing another comment, you sure you want to switch?​\nYour changes won’t be saved."
+    "unsaved_switch_question": "​Your are editing another comment, are you sure you want to switch?​\nYour changes won’t be saved."
   }
 }
