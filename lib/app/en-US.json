@@ -26,11 +26,11 @@
   },
   "notifications": {
     "single": {
-      "new_issue": "New issue published",
-      "update": "Issue was updated."
+      "new_issue": "A new issue was just published.",
+      "update": "An issue was just updated."
     },
     "multiple": {
-      "title": "Here comes trouble!",
+      "title": "Be prepared!",
       "body": "We received %s new notifications from Github."
     },
     "buttons": {
@@ -186,7 +186,7 @@
     "search_placehoder": "Search"
   },
   "emptystates": {
-    "no_issue_select": "Choose an issue and get to work'",
+    "no_issue_select": "Operation bug-squashing is a go.",
     "issue_not_found": "Oops, issue not found",
     "issue_activity_error": "Uh-oh, there's a technical issue 😰",
     "issue_no_results": "No issues here.",
