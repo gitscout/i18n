@@ -20,7 +20,7 @@
   "updater": {
     "new_release": {
       "title": "Gitscout Updater",
-      "message": "The update has installed itself successfully. – You’re now running the latest and hottest version of Gitscout.",
+      "message": "A new version is available click here to install and restart.",
       "button": "Install and Restart"
     }
   },
