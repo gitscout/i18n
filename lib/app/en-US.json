@@ -30,7 +30,7 @@
       "update": "An issue was just updated."
     },
     "multiple": {
-      "title": "Be prepared!",
+      "title": "Get ready!",
       "body": "We received %s new notifications from Github."
     },
     "buttons": {
@@ -193,7 +193,7 @@
     "search_no_results": "No results matched your search",
     "todo_no_results": "No issues saved here.",
     "drafts_no_results": "No drafts saved here.",
-    "notifications_no_unread": "No new notifications.",
+    "notifications_no_unread": "You're up to date.",
     "notifications_no_archive": "No past notifications.",
     "announcements_no_unread": "No new announcements"
   },
@@ -266,7 +266,7 @@
   },
   "drafts": {
     "help": {
-      "text": "When you write a new Ticket or edit a Comment you can save it as a \"Draft\". That way, you can finish it later.",
+      "text": "When you write a new Ticket or edit a Comment you can save it as a \"Draft\", so you can finish it later.",
       "warning": "All your drafts will be deleted when you quit the app."
     }
   },
@@ -308,7 +308,7 @@
     "tooltip_lock_conversation" : "Lock conversation",
     "tooltip_unlock_conversation" : "Unlock conversation",
     "conversation_locked": "This conversation has been locked and restricted to collaborators.",
-    "commit_link": "View commit details on Github"
+    "commit_link": "View the commit details on Github"
   },
   "activity": {
     "label": {
@@ -375,11 +375,11 @@
     },
     "app": {
       "title": "Gitscout Settings",
-      "auto_open": "Launch Gitscout at login",
+      "auto_open": "Start Gitscout at login",
       "display_notifications": "Display notifications",
       "version": "You're currently running version %(version)s",
       "btn_update": "Check for update now",
-      "btn_update_checking": "Checking for update",
+      "btn_update_checking": "Contacting the internets",
       "free_version": "You are using the <span class=\"ff-tag\">Free</span> version of Gitscout!",
       "go_premium": "Treat Yo'self!",
       "btn_upgrade": "Treat Yo'self to Premium!",
@@ -434,14 +434,14 @@
     "uploaded": "Uploaded",
     "errors": {
       "max_files": "You can only drop one file at a time",
-      "max_size": "File is over %(size)s",
-      "invalid_format": "This file format is not supported by Github.<div class=\"c-uploader__supported-files\"><p>FORMAT SUPPORTED</p><span>PNG, GIF, JPG, DOCX, PPTX, XLSX, TXT, PDF, or ZIP</span></div>",
-      "empty_file": "This file is empty.<br> Try again with an actual file."
+      "max_size": "This file is over %(size)s",
+      "invalid_format": "Github doesn't support this file format.<div class=\"c-uploader__supported-files\"><p>FORMAT SUPPORTED</p><span>PNG, GIF, JPG, DOCX, PPTX, XLSX, TXT, PDF, or ZIP</span></div>",
+      "empty_file": "Erm... This file looks empty.<br> Try again with another one."
     },
     "warning": {
-      "file_size": "File is over %(size)s, are you sure you want to upload it?",
-      "btn_confirm": "Confirm",
-      "btn_cancel": "Cancel"
+      "file_size": "This file is over %(size)s, are you sure you want to upload it?",
+      "btn_confirm": "Yes",
+      "btn_cancel": "No"
     }
   },
   "composer": {
