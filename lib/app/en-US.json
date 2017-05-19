@@ -174,7 +174,7 @@
       "list": {
         "wrong_url": "You url might be incorrect.",
         "private_repo": "If your repository is private make sure you have access to it.",
-        "api_restriction": "Make sur the administrator allows the repository API access."
+        "api_restriction": "Make sure the administrator allows the repository API access."
       }
     },
     "fork": {
