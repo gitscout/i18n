@@ -458,7 +458,7 @@
     "tooltip_assignee": "Assignee",
     "tooltip_milestone": "Milestone",
     "tooltip_attachment": "Attach a file",
-    "tooltip_preview": "Preview comment",
+    "tooltip_preview": "Preview",
     "tooltip_expand": "Expand composer",
     "tooltip_collapse": "Minimize composer",
     "btn_preview": "Preview",
